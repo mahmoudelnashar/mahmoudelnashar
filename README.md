@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Elnashar</h1> <h3 align="left">🚀 A passionate Software Engineer and Machine Learning enthusiast based in Cairo, Egypt, with a strong foundation in computer engineering and a drive to solve real-world problems through technology.</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Elnashar</h1> <h3 align="left"> A passionate Software Engineer and Machine Learning enthusiast based in Cairo, Egypt, with a strong foundation in computer engineering and a drive to solve real-world problems through technology.</h3>
 
 
 # About Me 🙋‍♂️
